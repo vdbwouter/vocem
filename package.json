@@ -1,6 +1,6 @@
 {
   "name": "vocem",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "An easy-to-use logging utility",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
