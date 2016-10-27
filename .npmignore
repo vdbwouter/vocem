@@ -1,0 +1,25 @@
+# NPM logs
+npm*.log
+
+# Dependency directories
+node_modules
+
+# Source and test files
+script
+spec
+spec-build
+src
+typings
+tsconfig.json
+typings.json
+
+# Git files
+.gitattributes
+.gitignore
+
+# CI files
+.travis.yml
+.gitlab-ci.yml
+
+# Vim data
+*.swp

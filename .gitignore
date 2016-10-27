@@ -1,0 +1,16 @@
+# NPM logs
+npm*.log
+
+# Dependency directories
+node_modules
+
+# Build output
+lib
+spec-build
+
+# Typings data
+typings
+spec/typings
+
+# Vim data
+*.swp

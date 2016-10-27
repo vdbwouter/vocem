@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "strictNullChecks": true,
+        "outDir": "lib",
+        "declaration": true
+    },
+    "include": [
+        "src/**/*.ts",
+        "typings/index.d.ts"
+    ]
+}
