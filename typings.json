@@ -2,6 +2,6 @@
   "globalDependencies": {
     "chalk": "registry:dt/chalk#0.4.0+20160317120654",
     "moment": "registry:dt/moment#2.11.1+20161010105546",
-    "node": "registry:env/node#6.0.0+20160918225031"
+    "node": "registry:env/node#6.0.0+20161019193037"
   }
 }
