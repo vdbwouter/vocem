@@ -1,4 +1,7 @@
 # Vocem
+
+**NOTE**: This project is no longer maintained. You might want to consider using an alternative.
+
 [![build status](https://gitlab.com/woutervdb/Vocem/badges/master/build.svg)](https://gitlab.com/woutervdb/Vocem/commits/master)
 [![CircleCI](https://circleci.com/gh/vdbwouter/vocem.svg?style=svg)](https://circleci.com/gh/vdbwouter/vocem)
 [![Build Status](https://travis-ci.org/vdbwouter/vocem.svg?branch=master)](https://travis-ci.org/vdbwouter/vocem)
